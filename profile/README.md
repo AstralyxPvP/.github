@@ -1,4 +1,4 @@
-![AstralyxPvP Logo](https://www.astralyxpvp.int.yt/Assets/logo.png)
+![AstralyxPvP Logo](https://www.astralyxpvp.org/Assets/logo.png)
 
 # AstralyxPvP
 
@@ -45,7 +45,7 @@ We build the whole stack in-house — websites, Discord bots (moderation + AI), 
 
 ## 🕸️ [AstralyxPvP-site](https://github.com/AstralyxPvP/AstralyxPvP-site) — the official website
 
-Cloudflare Pages site at **www.astralyxpvp.int.yt**, a full multi-page platform:
+Cloudflare Pages site at **www.astralyxpvp.org**, a full multi-page platform:
 
 - **Home** (`index.html`) — landing page with JSON-LD GameServer + FAQ structured data, SEO-verified (Google, Bing).
 - **Live leaderboard** (`leaderboard.html`) + **Hall of Fame** — real ELO standings.
@@ -155,10 +155,10 @@ Org profile + community health files — **this page**.
 
 <div align="center">
 
-**Server IP:** `java.astralyxpvp.int.yt`
+**Server IP:** `play.astralyxpvp.org`
 
 [![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/u8BFrpRwEg)
-[![Website](https://img.shields.io/badge/Visit_Website-0088cc?style=for-the-badge&logo=globe&logoColor=white)](https://www.astralyxpvp.int.yt)
+[![Website](https://img.shields.io/badge/Visit_Website-0088cc?style=for-the-badge&logo=globe&logoColor=white)](https://www.astralyxpvp.org)
 [![YouTube](https://img.shields.io/badge/YouTube-@AstralyxPvP-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AstralyxPvP)
 
 </div>
